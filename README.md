@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shehroaz
+- 👋 Hi,
 - 👀 I’m interested in Java Spring Development
 - 🌱 I’m currently learning Spring Boot and polishing my skills
 - 📫  muhammadshehoaz@gmail.com
