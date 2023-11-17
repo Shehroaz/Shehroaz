@@ -1,6 +1,6 @@
 - 👋 Hi,
-- 👀 I’m interested in Java Spring Development
-- 🌱 I’m currently learning Spring Boot and polishing my skills
+- Working as a Software Engineer.
+- Java, Spring, Spring Boot, Angular.
 - 📫  muhammadshehoaz@gmail.com
 
 <!---
