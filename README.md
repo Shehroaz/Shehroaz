@@ -1,5 +1,5 @@
 - 👋 Hi,
-- Working as a Software Engineer.
+- I am working as a Software Engineer.
 - Java, Spring, Spring Boot, Angular.
 - 📫  muhammadshehoaz@gmail.com
 
